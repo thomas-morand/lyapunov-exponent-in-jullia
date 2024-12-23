@@ -1,0 +1,1 @@
+# lyapunov-exponent-in-jullia
